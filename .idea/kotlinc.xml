@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="Kotlin2JvmCompilerArguments">
     <option name="jvmTarget" value="1.8" />
   </component>
   <component name="KotlinCommonCompilerArguments">
     <option name="apiVersion" value="2.3" />
     <option name="languageVersion" value="2.3" />
+=======
+  <component name="KotlinJpsPluginSettings">
+    <option name="externalSystemId" value="Maven" />
+    <option name="version" value="2.3.10" />
+>>>>>>> 510c6572867d6e89c542c1474d49d06a0f2a5e23
   </component>
 </project>
